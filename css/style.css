@@ -1,0 +1,11 @@
+.tipo{
+    color: white;
+}
+.planta{
+    background-color: #9BCC50;
+    border-radius: 20px;
+}
+.veneno{
+    background-color: #B97FC9;
+    border-radius: 20px;
+}
