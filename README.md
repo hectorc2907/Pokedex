@@ -2,7 +2,7 @@
 
 Proyecto de Practica para GitHub
 
-![](https://github.com/hectorc2907/Pokedex/blob/readme/img/Pokebola-pokeball-png-0.png)
+![](https://github.com/hectorc2907/Pokedex/blob/dev/img/pokemon.png)
 
 ## Tabla de Contenidos
 
