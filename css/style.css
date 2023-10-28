@@ -1,6 +1,8 @@
 .tipo{
     color: white;
     border-radius: 20px;
+    width: 100px;
+    text-align: center;
 }
 .planta{
     background-color: #9BCC50;
@@ -23,4 +25,10 @@
 }
 .normal{
     background-color: #A4ACAF;
+}
+.psiquico{
+    background-color: #F366B9;
+}
+.hielo{
+    background-color: #51C4E7;
 }
